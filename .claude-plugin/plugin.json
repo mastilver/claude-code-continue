@@ -1,0 +1,1 @@
+{ "name": "auto-continue", "version": "0.1.0", "description": "After a usage-limit stop, sends \"continue\" once the limit resets" }

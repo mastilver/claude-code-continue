@@ -1,0 +1,5 @@
+{
+  "name": "claude-code-continue",
+  "owner": { "name": "Thomas Sileghem" },
+  "plugins": [{ "name": "auto-continue", "source": "./" }]
+}
